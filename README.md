@@ -101,9 +101,9 @@ If you know Java or C++ you can help developing Webcam Capture by forking reposi
 
 ##### Donate
 
-People have expressed a wish to donate a little money. Donating won't get you anything special, other than a warm feeling inside, and possibly urge me to produce more freely available material for Webcam Capture project. You can donate via [PayPal](https://www.paypal.com), just click [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UYMENK76CSYZU) button available below - it will redirect you to the secured PayPal page where you can provide donation amount (there is no minimal value).
+People have expressed a wish to donate a little money. Donating won't get you anything special, other than a warm feeling inside, and possibly urge me to produce more freely available material for Webcam Capture project. You can donate via [PayPal](https://www.paypal.com), just click [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3PXVSLXFBS45E) button available below - it will redirect you to the secured PayPal page where you can provide donation amount (there is no minimal value).
 
-[![Donate via PayPal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UYMENK76CSYZU)
+[![Donate via PayPal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3PXVSLXFBS45E)
 
 ## Hello World
 
